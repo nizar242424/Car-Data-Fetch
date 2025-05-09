@@ -1,0 +1,74 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "color": "Silver",
+      "model": "LE",
+      "year": 2022
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "color": "Red",
+      "model": "EX",
+      "year": 2021
+    },
+    {
+      "id": 3,
+      "name": "Ford Mustang",
+      "color": "Black",
+      "model": "GT",
+      "year": 2023
+    },
+    {
+      "id": 4,
+      "name": "Tesla Model 3",
+      "color": "White",
+      "model": "Performance",
+      "year": 2022
+    },
+    {
+      "id": 5,
+      "name": "BMW 3 Series",
+      "color": "Blue",
+      "model": "330i",
+      "year": 2020
+    },
+    {
+      "id": 6,
+      "name": "Audi A4",
+      "color": "Gray",
+      "model": "Premium",
+      "year": 2021
+    },
+    {
+      "id": 7,
+      "name": "Mercedes C-Class",
+      "color": "Black",
+      "model": "C300",
+      "year": 2023
+    },
+    {
+      "id": 8,
+      "name": "Chevrolet Corvette",
+      "color": "Yellow",
+      "model": "Stingray",
+      "year": 2022
+    },
+    {
+      "id": 9,
+      "name": "Hyundai Sonata",
+      "color": "White",
+      "model": "Limited",
+      "year": 2021
+    },
+    {
+      "id": 10,
+      "name": "Volkswagen Golf",
+      "color": "Red",
+      "model": "GTI",
+      "year": 2020
+    }
+  ]
+}
