@@ -3,72 +3,82 @@
     {
       "id": 1,
       "name": "Toyota Camry",
-      "color": "Silver",
+      "color": "White",
       "model": "LE",
-      "year": 2022
+      "year": 2022,
+      "image": "/img/car1.png"
     },
     {
       "id": 2,
       "name": "Honda Civic",
-      "color": "Red",
+      "color": "Gray",
       "model": "EX",
-      "year": 2021
+      "year": 2021,
+      "image": "/img/car2.png"
     },
     {
       "id": 3,
       "name": "Ford Mustang",
-      "color": "Black",
+      "color": "Blue",
       "model": "GT",
-      "year": 2023
+      "year": 2023,
+      "image": "/img/car3.png"
     },
     {
       "id": 4,
       "name": "Tesla Model 3",
       "color": "White",
       "model": "Performance",
-      "year": 2022
+      "year": 2022,
+      "image": "/img/car4.png"
     },
     {
       "id": 5,
       "name": "BMW 3 Series",
       "color": "Blue",
       "model": "330i",
-      "year": 2020
+      "year": 2020,
+      "image": "/img/car5.png"
     },
     {
       "id": 6,
       "name": "Audi A4",
-      "color": "Gray",
+      "color": "White",
       "model": "Premium",
-      "year": 2021
+      "year": 2021,
+      "image": "/img/car6.png"
     },
     {
       "id": 7,
       "name": "Mercedes C-Class",
-      "color": "Black",
+      "color": "White",
       "model": "C300",
-      "year": 2023
+      "year": 2023,
+      "image": "/img/car7.png"
     },
     {
       "id": 8,
       "name": "Chevrolet Corvette",
       "color": "Yellow",
       "model": "Stingray",
-      "year": 2022
+      "year": 2022,
+      "image": "/img/car8.png"
     },
     {
       "id": 9,
       "name": "Hyundai Sonata",
       "color": "White",
       "model": "Limited",
-      "year": 2021
+      "year": 2021,
+      "image": "/img/car9.png"
     },
     {
       "id": 10,
       "name": "Volkswagen Golf",
       "color": "Red",
       "model": "GTI",
-      "year": 2020
+      "year": 2020,
+      "image": "/img/car10.png"
     }
   ]
 }
